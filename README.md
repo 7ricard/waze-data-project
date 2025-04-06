@@ -25,13 +25,13 @@ An exploratory analysis of user engagement and churn patterns in the Waze app, h
 
 ## Visual Snapshot
 
-![Churn vs Retention](images/churn_vs_retention.png)
+![Churn vs Retention](churn_vs_retained.png)
 
 ---
 
 ## Notion Write-Up (Storytelling + Business Context)
 
-👉 [Read the full project breakdown on Notion](https://your-notion-link.com)
+👉 [Read the full project breakdown on Notion](https://www.notion.so/Waze-User-Churn-Capstone-Project-1cd9764c600680768bc9e8d0ba1497d8?pvs=4)
 
 Includes:
 - Business takeaways
