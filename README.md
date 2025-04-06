@@ -25,7 +25,7 @@ An exploratory analysis of user engagement and churn patterns in the Waze app, h
 
 ## Visual Snapshot
 
-![Churn vs Retention](Waze Capstone/churned_vs_retained.png)
+![Churn vs Retention](churned_vs_retained.png)
 
 ---
 
